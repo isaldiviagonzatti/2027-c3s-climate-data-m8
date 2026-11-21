@@ -1,0 +1,3 @@
+# Understanding Climate Data: Module 8 notebooks
+
+Jupyter notebooks for Module 8, *Advanced use of climate data and C3S tools*, of the [Understanding Climate Data](https://climate.copernicus.eu/online-course-understanding-climate-data) online course of the Copernicus Climate Change Service (C3S). Their primary intention is to support the learning in this module, so enrol in the course for context on the notebooks. Each notebook comes in two versions: the original one to run yourself, and a `_solved` version that shows all the outputs. The notebooks run on Google Colab. The `fwi_data` folder holds a copy of the data used in the Fire Weather Index notebook.
